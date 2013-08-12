@@ -65,7 +65,6 @@
 	                <sourceDirectory>${project.basedir}/src/com/mulodo/freemarket</sourceDirectory>
 					<nativeLibrariesDirectory>${project.basedir}/src/com/mulodo/freemarket/native</nativeLibrariesDirectory>
 	                <sdk>
-	                    <path>/Users/duongminhlong/Downloads/adt-bundle-mac-x86_64-20130219 2/sdk/build-tools/17.0.0</path> 
 	                    <platform>10</platform>
 	                </sdk>
 	                <undeployBeforeDeploy>true</undeployBeforeDeploy>
